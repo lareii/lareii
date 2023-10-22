@@ -1,6 +1,5 @@
-### hey :wave:
-im emirhan aka larei. im a 17 y.o. self-taught developer. \
-i enjoy programming, math and music. thats all, thanks ✨
+# it's emirhan!
+emirhan (aka larei), 17 years-old, university student. self-taught developer, <br>
+open-source enthusiast. programming, music, math. *insert here some lorem ipsum*
 
-![os](https://img.shields.io/badge/os-windows-0080ff)
-![browser](https://img.shields.io/badge/browser-firefox-f25b35)
+https://larei.is-a.dev/
