@@ -59,7 +59,7 @@ app.post('/', (req, res) => {
     let data = req.body;
     res.send('Data Received: ' + JSON.stringify(data));
     console.log('Data Received. Validating...');
-    console.log('Valid: ' + verifySignature('test', req.headers['X-Hub-Signature-256'], JSON.stringify(data)));
+    console.log('Valid: ' + verifySignature('test', req.get('X-Hub-Signature-256'), JSON.stringify(data)));
 })
 
 app.listen(3000, () => {
